@@ -6,6 +6,31 @@
 
 
  <details> 
+  <summary><b> FOLDERS </b></summary>
+
+* [R PROGRAMMING LAB](https://github.com/004Ajay/College-Lab-Works/tree/main/R)
+
+* [AI & DS LAB](https://github.com/004Ajay/College-Lab-Works/tree/main/AI-DS)
+
+* [SQL LAB](https://github.com/004Ajay/College-Lab-Works/tree/main/SQL)
+
+* [PYTHON PROGRAMMING LAB](https://github.com/004Ajay/College-Lab-Works/tree/main/Python)
+
+* [OPERATING SYSTEMS LAB](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem)
+
+* [JAVA PROGRAMMING LAB](https://github.com/004Ajay/College-Lab-Works/tree/main/Java)
+
+* [DATA STRUCTURES LAB](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures)
+
+* [C PROGRAMMING LAB](https://github.com/004Ajay/College-Lab-Works/tree/main/C)
+
+</details>
+
+<br>
+
+<!-- --------------------------------------------------------- -->
+
+ <details> 
   <summary><b> R LAB </b></summary>
 
 * [Experiment 1 → Input from terminal](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Lab%20Experiments/CmdInp.R)
