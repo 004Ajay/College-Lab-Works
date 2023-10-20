@@ -1,0 +1,7 @@
+# PYTHON PROGRAM TO PRINT HELLOWORLD
+
+print("HelloWorld")
+
+
+
+
