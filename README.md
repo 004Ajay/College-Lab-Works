@@ -453,7 +453,7 @@
 
 * [Reversing string using Stack](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/RevStringUsingStack.c) 
 
-[Stack](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Stack.c) 
+* [Stack](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Stack.c) 
 
 
 #### QUEUE
