@@ -285,7 +285,8 @@
   <summary><b> JAVA LAB </b></summary>
 
 
-## BASICS
+#### BASICS
+
 * [Character Frequency](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/CharacterFreq.java)
 
 * [Hello World](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/HelloWorld.java) 
@@ -322,7 +323,7 @@
 
 * [Vowels or Consonants](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/VowelsOrConsonants.java)
 
-## FILE HANDLING
+#### FILE HANDLING
 
 * [Line of Text](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/FileProgram2.java) 
 
@@ -333,7 +334,7 @@
 * [Read/Write text content(buffered reader/writer)](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/FileProgram3.java) 
 
 
-## MULTI-THREADING
+#### MULTI-THREADING
 
 * [Five consecutive integers](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/MultiThread2.java) 
 
@@ -342,45 +343,45 @@
 * [Suspend & Resume method](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/MultiThread3.java) 
 
 
-## INHERITANCE
+#### INHERITANCE
 
 * [Employees](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Employees.java) 
 
 * [Engineer & Employee](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/EngineerEmployee.java) 
 
 
-## EXCEPTION HANDLING
+#### EXCEPTION HANDLING
 
 * [Try Catch FINALLY](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/TryCatchFINALLY.java) 
 
 * [Try Catch THROW](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/TryCatchTHROW.java) 
 
 
-## EVENT HANDLING
+#### EVENT HANDLING
 
 * [Keyboard Events](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/KeyboardEvents.java) 
 
 * [Mouse Events](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/MouseEvents.java) 
 
 
-## JAVA SWING
+#### JAVA SWING
 
 * [Calculator](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/calculator.java) 
 
 * [Traffic Light](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/TrafficLight.java) 
 
 
-## INTERFACE
+#### INTERFACE
 
 * [Interface Inheritance](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/InterfaceInheritance.java) 
 
 
-## ABSTRACTION
+#### ABSTRACTION
 
 * [Abstract Shape's Sides](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/AbstractShapeSides.java) 
 
 
-## LIST
+###### LIST
 
 * [Doubly LinkedList](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/DoublyLinkedList.java) 
 
@@ -392,7 +393,7 @@
  <details> 
   <summary><b> DATA STRUCTURES LAB </b></summary>
 
-## ARRAYS
+#### ARRAYS
 
 * [Binary Search Using Function](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/BinarySearchUsingFunction.c) 
 
@@ -419,7 +420,7 @@
 * [Selection Sort](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/SelectionSort.c) 
 
 
-## STACKS
+#### STACKS
 
 * [Evaluation of Postfix Expression](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/EvaluationOfPostfixExpression.c) 
 
@@ -430,14 +431,14 @@
 [Stack](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Stack.c) 
 
 
-## QUEUE
+#### QUEUE
 
 * [Circular Queue](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/CircularQueue.c) 
 
 * [Queue](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Queue.c) 
 
 
-## LINKEDLIST
+#### LINKEDLIST
 
 * [LinkedList](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/LinkedList.c) 
 
@@ -450,7 +451,7 @@
  <details> 
   <summary><b> C LAB </b></summary>
 
-## BASICS
+#### BASICS
 
 * [Adding Two Numbers](https://github.com/004Ajay/College-Lab-Works/tree/main/C/AddTwoNumbers.c) 
 
@@ -495,7 +496,7 @@
 * [Week to Day](https://github.com/004Ajay/College-Lab-Works/tree/main/C/WeekDays.c) 
 
 
-## ARRAYS
+#### ARRAYS
 
 * [Array Copying](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ArrayCopy.c) 
 
@@ -506,7 +507,7 @@
 * [Array Sum](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ArraySum.c) 
 
 
-## MATRIX
+#### MATRIX
 
 * [Diagonal Matrix Or Not](https://github.com/004Ajay/College-Lab-Works/tree/main/C/DiagonalMatrixOrNot.c)
 
@@ -523,14 +524,14 @@
 * [Sparse Matrix](https://github.com/004Ajay/College-Lab-Works/tree/main/C/SparseMatrix.c)
 
 
-## SEARCHING
+#### SEARCHING
 
 * [Linear Search](https://github.com/004Ajay/College-Lab-Works/tree/main/C/LinearSearch.c)
 
 * [Binary Search](https://github.com/004Ajay/College-Lab-Works/tree/main/C/BinarySearch.c)
 
 
-## FUNCTION
+#### FUNCTION
 
 * [Word reversing using function](https://github.com/004Ajay/College-Lab-Works/tree/main/C/WordRevUsingFunc.c) 
 
