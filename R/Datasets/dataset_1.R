@@ -1,0 +1,5 @@
+data <- c(1:10)
+target <- seq(from=3, to=21, by=2)
+df <- data.frame(data, target)
+print(df)
+write.csv(df, "df.csv", row.names=F)

@@ -1,0 +1,2 @@
+You can browse 'how to install hadoop on <your-os>' or 
+check out this: https://www.geeksforgeeks.org/how-to-install-single-node-cluster-hadoop-on-windows/

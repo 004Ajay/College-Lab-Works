@@ -1,0 +1,57 @@
+1. Start Hadoop: To start the Hadoop daemons:
+
+> start-all.sh
+
+---------------------------------------------------------------------------------------------------------------------------
+
+2. Create a Directory:
+
+> hdfs dfs -mkdir <directory_path>
+
+---------------------------------------------------------------------------------------------------------------------------
+
+3. List All Contents: To list all the files and directories in a specific directory in HDFS:
+
+> hdfs dfs -ls <directory_path>
+
+---------------------------------------------------------------------------------------------------------------------------
+
+4. Copy a File from the Local System to HDFS:
+
+> hdfs dfs -put <local_file_path> <hdfs_destination_path>
+
+---------------------------------------------------------------------------------------------------------------------------
+
+5. Copy a File from HDFS to the Local System:
+
+> hdfs dfs -get <hdfs_file_path> <local_destination_path>
+
+---------------------------------------------------------------------------------------------------------------------------
+
+6. Display Contents of a File:
+
+> hdfs dfs -cat <file_path>
+
+---------------------------------------------------------------------------------------------------------------------------
+
+7. Copy Files from One Location to Another:
+
+> hdfs dfs -cp <source_path> <destination_path>
+
+---------------------------------------------------------------------------------------------------------------------------
+
+8. Create an Empty File:
+
+> hdfs dfs -touchz <file_path>
+
+---------------------------------------------------------------------------------------------------------------------------
+
+9. Move a Directory from One HDFS to Another:
+
+> hdfs dfs -mv <source_directory_path> <destination_directory_path>
+
+---------------------------------------------------------------------------------------------------------------------------
+
+10. Disk Usage: To check the disk usage of a file or directory in HDFS:
+
+> hdfs dfs -du <file_or_directory_path>
