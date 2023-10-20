@@ -2,7 +2,7 @@
 <img src="https://img.icons8.com/nolan/200/1A6DFF/C822FF/graduation-cap.png"  title = "College Lab Works" height='200'>
 </div>
 
-# College Laboratory Works
+<h1 align="center"> COLLEGE LABORATORY WORKS </h1>
 
 
  <details> 
