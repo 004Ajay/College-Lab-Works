@@ -4,8 +4,7 @@
 
 <h1 align="center"> COLLEGE LABORATORY WORKS </h1>
 
-
- <details> 
+<details> 
   <summary><b> FOLDERS </b></summary>
 
 * [R PROGRAMMING LAB](https://github.com/004Ajay/College-Lab-Works/tree/main/R)
@@ -30,8 +29,10 @@
 
 <!-- --------------------------------------------------------- -->
 
- <details> 
+<details> 
   <summary><b> R LAB </b></summary>
+
+[Go to R folder](https://github.com/004Ajay/College-Lab-Works/tree/main/R)
 
 * [Experiment 1 → Input from terminal](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Lab%20Experiments/CmdInp.R)
 
@@ -81,12 +82,20 @@
 
 * [Experiment 23 → MapReduce : Word Count Using Python](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Lab%20Experiments/Word_Count.py)
 
+### Datasets
+
+* [Sample Dataset making program](https://github.com/004Ajay/College-Lab-Works/blob/main/Datasets/dataset_1.R)
+
+* [Linear Regression Dataset making program](https://github.com/004Ajay/College-Lab-Works/blob/main/Datasets/height_weight_dataset.R)
+
 </details>
 
 <!-- --------------------------------------------------------- -->
 
- <details> 
+<details> 
   <summary><b> AI & DS LAB </b></summary>
+
+[Go to AI-DS folder](https://github.com/004Ajay/College-Lab-Works/tree/main/AI-DS)
 
 * [Experiment 1 → Statistical Measures](https://github.com/004Ajay/College-Lab-Works/tree/main/AI-DS/AI%20Lab%20Experiments/Statistical_Measure_Data_Visualization.ipynb)
 
@@ -116,8 +125,10 @@
 
 <!-- --------------------------------------------------------- -->
 
- <details> 
+<details> 
   <summary><b> SQL LAB </b></summary>
+
+[Go to SQL folder](https://github.com/004Ajay/College-Lab-Works/tree/main/SQL)
 
 * [Exp 1 → Database Schema & ER Diagram](https://github.com/004Ajay/College-Lab-Works/tree/main/SQL/EXP1_DB_Schema_ER_Diag.md)
 
@@ -143,8 +154,10 @@
 
 <!-- --------------------------------------------------------- -->
 
- <details> 
+<details> 
   <summary><b> PYTHON LAB </b></summary>
+
+[Go to Python folder](https://github.com/004Ajay/College-Lab-Works/tree/main/Python)
 
 ### Programs
 
@@ -206,8 +219,10 @@
 
 <!-- --------------------------------------------------------- -->
 
- <details> 
+<details> 
   <summary><b> OPERATING SYSTEM LAB </b></summary>
+
+[Go to OperatingSystem folder](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem)
 
 ## Operating System Programs
 
@@ -285,9 +300,10 @@
 
 <!-- --------------------------------------------------------- -->
 
- <details> 
+<details> 
   <summary><b> JAVA LAB </b></summary>
 
+[Go to Java folder](https://github.com/004Ajay/College-Lab-Works/tree/main/Java)
 
 #### BASICS
 
@@ -394,8 +410,10 @@
 
 <!-- --------------------------------------------------------- -->
 
- <details> 
+<details> 
   <summary><b> DATA STRUCTURES LAB </b></summary>
+
+[Go to Data-Structures folder](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures)
 
 #### ARRAYS
 
@@ -452,92 +470,90 @@
 
 <!-- --------------------------------------------------------- -->
 
- <details> 
+<details> 
   <summary><b> C LAB </b></summary>
 
-#### BASICS
+[Go to C folder](https://github.com/004Ajay/College-Lab-Works/tree/main/C)
 
-* [Adding Two Numbers](https://github.com/004Ajay/College-Lab-Works/tree/main/C/AddTwoNumbers.c) 
+## BASICS
 
-* [Armstrong Number](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ArmstrongNum.c) 
+* [Adding Two Numbers](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsAddTwoNumbers.c) 
 
-* [ASCII Value of a Charcter](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ASCIIValueOfCharcter.c) 
+* [Armstrong Number](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsArmstrongNum.c) 
 
-* [Greater Number](https://github.com/004Ajay/College-Lab-Works/tree/main/C/GreaterNum.c) 
+* [ASCII Value of a Charcter](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsASCIIValueOfCharcter.c) 
 
-* [Number is Even or Odd](https://github.com/004Ajay/College-Lab-Works/tree/main/C/EvenOdd.c) 
+* [Greater Number](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsGreaterNum.c) 
 
-* [Factorial of a number](https://github.com/004Ajay/College-Lab-Works/tree/main/C/Factorial.c) 
+* [Number is Even or Odd](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsEvenOdd.c) 
 
-* [Fibonacci Series](https://github.com/004Ajay/College-Lab-Works/tree/main/C/FibonacciSeries.c)
+* [Factorial of a number](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsFactorial.c) 
 
-* [Hello World](https://github.com/004Ajay/College-Lab-Works/tree/main/C/HelloWorld.c) 
+* [Fibonacci Series](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsFibonacciSeries.c)
 
-* [Largest of 3 numbers](https://github.com/004Ajay/College-Lab-Works/tree/main/C/LargestOf3Nos.c) 
+* [Hello World](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsHelloWorld.c) 
 
-* [Leap Year](https://github.com/004Ajay/College-Lab-Works/tree/main/C/LeapYear.c) 
+* [Largest of 3 numbers](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsLargestOf3Nos.c) 
 
-* [Number of digits in a number](https://github.com/004Ajay/College-Lab-Works/tree/main/C/NumOfDigits.c) 
+* [Leap Year](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsLeapYear.c) 
 
-* [Number Palindrome](https://github.com/004Ajay/College-Lab-Works/tree/main/C/NumPalindrome.c) 
+* [Number of digits in a number](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsNumOfDigits.c) 
 
-* [Number Reversing](https://github.com/004Ajay/College-Lab-Works/tree/main/C/NumRev.c) 
+* [Number Palindrome](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsNumPalindrome.c) 
 
-* [Number to words](https://github.com/004Ajay/College-Lab-Works/tree/main/C/NumToWords.c) 
+* [Number Reversing](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsNumRev.c) 
 
-* [Prime number or not](https://github.com/004Ajay/College-Lab-Works/tree/main/C/PrimeCheck.c) 
+* [Number to words](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsNumToWords.c) 
 
-* [Quadratic equation calculator](https://github.com/004Ajay/College-Lab-Works/tree/main/C/QuadEq.c) 
+* [Prime number or not](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsPrimeCheck.c) 
 
-* [Star Pattern](https://github.com/004Ajay/College-Lab-Works/tree/main/C/StarPattern.c) 
+* [Quadratic equation calculator](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsQuadEq.c) 
 
-* [Sum of digits of a number](https://github.com/004Ajay/College-Lab-Works/tree/main/C/SumOfDigits.c)
+* [Star Pattern](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsStarPattern.c) 
 
-* [Swapping with third variable](https://github.com/004Ajay/College-Lab-Works/tree/main/C/SwapWith3rdVar.c) 
+* [Sum of digits of a number](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsSumOfDigits.c)
 
-* [Swapping without third variable](https://github.com/004Ajay/College-Lab-Works/tree/main/C/SwapWithout3rdVar.c) 
+* [Swapping with third variable](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsSwapWith3rdVar.c) 
 
-* [Week to Day](https://github.com/004Ajay/College-Lab-Works/tree/main/C/WeekDays.c) 
+* [Swapping without third variable](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsSwapWithout3rdVar.c) 
 
+* [Week to Day](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsWeekDays.c) 
 
-#### ARRAYS
+## ARRAYS
 
-* [Array Copying](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ArrayCopy.c) 
+* [Array Copying](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsArrayCopy.c) 
 
-* [Array Minimum and Maximum](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ArrayMinMax.c)
+* [Array Minimum and Maximum](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsArrayMinMax.c)
 
-* [Array Odd or Even](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ArrayOddEven.c)
+* [Array Odd or Even](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsArrayOddEven.c)
 
-* [Array Sum](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ArraySum.c) 
+* [Array Sum](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsArraySum.c) 
 
+## MATRIX
 
-#### MATRIX
+* [Diagonal Matrix Or Not](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsDiagonalMatrixOrNot.c)
 
-* [Diagonal Matrix Or Not](https://github.com/004Ajay/College-Lab-Works/tree/main/C/DiagonalMatrixOrNot.c)
+* [Matrix Addition](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsMatAdd.c)
 
-* [Matrix Addition](https://github.com/004Ajay/College-Lab-Works/tree/main/C/MatAdd.c)
+* [Matrix Calaculator](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsMatCalaculator.c)
 
-* [Matrix Calaculator](https://github.com/004Ajay/College-Lab-Works/tree/main/C/MatCalaculator.c)
+* [Matrix Multiply](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsMatMultiply.c) 
 
-* [Matrix Multiply](https://github.com/004Ajay/College-Lab-Works/tree/main/C/MatMultiply.c) 
+* [Matrix Subtraction](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsMatSub.c)
 
-* [Matrix Subtraction](https://github.com/004Ajay/College-Lab-Works/tree/main/C/MatSub.c)
+* [Matrix Transpose](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsMatTranspose.c) 
 
-* [Matrix Transpose](https://github.com/004Ajay/College-Lab-Works/tree/main/C/MatTranspose.c) 
+* [Sparse Matrix](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsSparseMatrix.c)
 
-* [Sparse Matrix](https://github.com/004Ajay/College-Lab-Works/tree/main/C/SparseMatrix.c)
+## SEARCHING
 
+* [Linear Search](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsLinearSearch.c)
 
-#### SEARCHING
+* [Binary Search](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsBinarySearch.c)
 
-* [Linear Search](https://github.com/004Ajay/College-Lab-Works/tree/main/C/LinearSearch.c)
+## FUNCTION
 
-* [Binary Search](https://github.com/004Ajay/College-Lab-Works/tree/main/C/BinarySearch.c)
-
-
-#### FUNCTION
-
-* [Word reversing using function](https://github.com/004Ajay/College-Lab-Works/tree/main/C/WordRevUsingFunc.c) 
+* [Word reversing using function](https://github.com/004Ajay/College-Lab-Works/tree/main/C/ProgramsWordRevUsingFunc.c)  
 
 </details>
 

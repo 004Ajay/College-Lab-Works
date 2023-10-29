@@ -61,35 +61,10 @@
 
 * [Experiment 23 → MapReduce : Word Count Using Python](https://github.com/004Ajay/College-Lab-Works/blob/main/Lab%20Experiments/Word_Count.py)
 
-
-
-
-<!-- --------------------------------------------------- -->
-
 ---
-
-<br>
-
-## Other Programs
-
-* [Automobile Program](https://github.com/004Ajay/College-Lab-Works/blob/main/Programs/auto.R)
-
-* [Greatest Common Divisor (GCD)](https://github.com/004Ajay/College-Lab-Works/blob/main/Programs/gcd_hcf.R)
-
-* [Qudratic Equation](https://github.com/004Ajay/College-Lab-Works/blob/main/Programs/quadEq.R)
-
-
-<!-- --------------------------------------------------- -->
-
----
-
-<br>
 
 ### Datasets
 
 * [Sample Dataset making program](https://github.com/004Ajay/College-Lab-Works/blob/main/Datasets/dataset_1.R)
 
 * [Linear Regression Dataset making program](https://github.com/004Ajay/College-Lab-Works/blob/main/Datasets/height_weight_dataset.R)
-
-
-<!-- --------------------------------------------------- -->
