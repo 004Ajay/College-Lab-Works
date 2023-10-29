@@ -14,74 +14,74 @@ The shell is the layer of programming that understands and executes the commands
 
 ## Operating System Programs
 
-* [Banker's Algorithm](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/bankersAlgorithm.c)
+* [Banker's Algorithm](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/bankersAlgorithm.c)
 
-* [Inter Process Communication using Shared Memory (IPC)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/ipc.c)
+* [Inter Process Communication using Shared Memory (IPC)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/ipc.c)
 
-* [Semaphores (Producer - Consumer Problem)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/semaphores.c)
+* [Semaphores (Producer - Consumer Problem)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/semaphores.c)
 
 
 #### CPU Scheduling Programs
 
-* [First Come First Served CPU Scheduling (FCFS)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/FCFS_Sch.c)
+* [First Come First Served CPU Scheduling (FCFS)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/FCFS_Sch.c)
 
-* [Priority Scheduling](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Priority_Sch.c)
+* [Priority Scheduling](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/Priority_Sch.c)
 
-* [Round Robin Scheduling](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/RoundRobin_Sch.c)
+* [Round Robin Scheduling](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/RoundRobin_Sch.c)
 
-* [Short Job First Scheduling (SJF)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/SJF_Sch.c)
+* [Short Job First Scheduling (SJF)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/SJF_Sch.c)
 
 
 #### Disk Scheduling Programs
 
-* [Circular SCAN (C-SCAN)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/cscan.c)
+* [Circular SCAN (C-SCAN)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/cscan.c)
 
-* [First Come First Served Disk Scheduling (FCFS)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/fcfs.c)
+* [First Come First Served Disk Scheduling (FCFS)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/fcfs.c)
 
-* [SCAN (Elevator Algorithm)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/scan.c)
+* [SCAN (Elevator Algorithm)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/scan.c)
 
-* [Shortest Seek Time First (SSTF)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/sstf.c)
+* [Shortest Seek Time First (SSTF)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/sstf.c)
 
 
 #### Memory Allocation Programs
 
-* [Best Fit](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/best.c)
+* [Best Fit](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/best.c)
 
-* [First Fit](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/first.c)
+* [First Fit](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/first.c)
 
-* [Worst Fit](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/worst.c)
+* [Worst Fit](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/worst.c)
 
 
 #### Page Replacement Programs
 
-* [First In First Out (FIFO)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/fifo.c)
+* [First In First Out (FIFO)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/fifo.c)
 
-* [Least Recently Used (LRU)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/lru.c)
+* [Least Recently Used (LRU)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/lru.c)
 
 
 #### System Call Programs
 
-* [System Call 1: fork() exec() getpid() exit()](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/SysCallForkExec.c) 
+* [System Call 1: fork() exec() getpid() exit()](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/SysCallForkExec.c) 
 
-* [System Call 2: stat()](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/SysCallStat.c)
+* [System Call 2: stat()](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/SysCallStat.c)
 
-* [System Call 3: opendir() closedir()](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/SysCallDir.c)
+* [System Call 3: opendir() closedir()](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/SysCallDir.c)
 
 ---
 
 ## Shell Programs 
-[First 10 Natural Numbers](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/10NatNums.sh) 
+[First 10 Natural Numbers](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/10NatNums.sh) 
 
-[Basic Details](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/BasicDetails.sh) 
+[Basic Details](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/BasicDetails.sh) 
 
-[Biggest Of Two Numbers](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/BiggestOfTwoNums.sh)
+[Biggest Of Two Numbers](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/BiggestOfTwoNums.sh)
 
-[Calculator](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/calculator.sh) 
+[Calculator](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/calculator.sh) 
 
-[Factorial](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Factorial.sh) 
+[Factorial](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/Factorial.sh) 
 
-[Fibonacci](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Fibonacci.sh) 
+[Fibonacci](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/Fibonacci.sh) 
 
-[Sum Of Two Numbers](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/SumOfTwoNums.sh) 
+[Sum Of Two Numbers](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/SumOfTwoNums.sh) 
 
 ---

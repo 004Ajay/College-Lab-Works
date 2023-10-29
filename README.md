@@ -34,59 +34,53 @@
 
 [Go to R folder](https://github.com/004Ajay/College-Lab-Works/tree/main/R)
 
-* [Experiment 1 → Input from terminal](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Lab%20Experiments/CmdInp.R)
+* [Experiment 1 → Input from terminal](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Programs/CmdInp.R)
 
-* [Experiment 2 → Min & Max value from a vector](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Lab%20Experiments/VecMinMax.R)
+* [Experiment 2 → Min & Max value from a vector](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Programs/VecMinMax.R)
 
-* [Experiment 3 → Factorial & Palindrome of a number](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Lab%20Experiments/fact.R)
+* [Experiment 3 → Factorial & Palindrome of a number](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Programs/fact.R)
 
-* [Experiment 4 → Multiples of Five](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Lab%20Experiments/MultiplesOfFive.R)
+* [Experiment 4 → Multiples of Five](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Programs/MultiplesOfFive.R)
 
-* [Experiment 5 → Pascals Triangle](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Lab%20Experiments/PasTri.R)
+* [Experiment 5 → Pascals Triangle](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Programs/PasTri.R)
 
-* [Experiment 6 → Nth Largest Element](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Lab%20Experiments/nth_largest.R)
+* [Experiment 6 → Nth Largest Element](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Programs/nth_largest.R)
 
-* [Experiment 7 → Nth Element](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Lab%20Experiments/nth_ele.R)
+* [Experiment 7 → Nth Element](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Programs/nth_ele.R)
 
-* [Experiment 8 → Element Insertion](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Lab%20Experiments/ele_ins.R)
+* [Experiment 8 → Element Insertion](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Programs/ele_ins.R)
 
-* [Experiment 9 → Transforms](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Lab%20Experiments/transforms.R)
+* [Experiment 9 → Transforms](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Programs/transforms.R)
 
-* [Experiment 10 → Apply & Lapply](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Lab%20Experiments/apply_lapply.R)
+* [Experiment 10 → Apply & Lapply](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Programs/apply_lapply.R)
 
-* [Experiment 11 → Merge Dataframes](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Lab%20Experiments/merge_df.R)
+* [Experiment 11 → Merge Dataframes](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Programs/merge_df.R)
 
-* [Experiment 12 → Linear Regression](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Lab%20Experiments/LinReg_height_weight.R)
+* [Experiment 12 → Linear Regression](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Programs/LinReg_height_weight.R)
 	
-	* [Linear Regression Dataset](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Lab%20Experiments/height_weight.csv)
+	* [Linear Regression Dataset](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Programs/height_weight.csv)
 
-* [Experiment 13 → Logistic Regression](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Lab%20Experiments/log_reg.R)
+* [Experiment 13 → Logistic Regression](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Programs/log_reg.R)
 
-* [Experiment 14 → Decision Tree](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Lab%20Experiments/dtree.R)
+* [Experiment 14 → Decision Tree](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Programs/dtree.R)
 
-* [Experiment 15 → Support Vector Machine](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Lab%20Experiments/svm.R)
+* [Experiment 15 → Support Vector Machine](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Programs/svm.R)
 
-* [Experiment 16 → Variance Covariance Correlation](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Lab%20Experiments/iris_cov_cor.R)
+* [Experiment 16 → Variance Covariance Correlation](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Programs/iris_cov_cor.R)
 
-* [Experiment 17 → KMeans Clustering](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Lab%20Experiments/kmeans_cluster.R)
+* [Experiment 17 → KMeans Clustering](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Programs/kmeans_cluster.R)
 
-* [Experiment 18 → Hierarchical Clustering](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Lab%20Experiments/hierarchical.R)
+* [Experiment 18 → Hierarchical Clustering](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Programs/hierarchical.R)
 
-* [Experiment 19 → DBSCAN Clustering](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Lab%20Experiments/dbscan.R)
+* [Experiment 19 → DBSCAN Clustering](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Programs/dbscan.R)
 
-* [Experiment 20 → Statistical Tests](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Lab%20Experiments/stats.R)
+* [Experiment 20 → Statistical Tests](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Programs/stats.R)
 
-* [Experiment 21 → Hadoop Installation](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Lab%20Experiments/Hadoop_Insatallation.txt)
+* [Experiment 21 → Hadoop Installation](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Programs/Hadoop_Insatallation.txt)
 
-* [Experiment 22 → Hadoop Shell Commands](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Lab%20Experiments/Hadoop_Shell_Commands.txt)
+* [Experiment 22 → Hadoop Shell Commands](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Programs/Hadoop_Shell_Commands.txt)
 
-* [Experiment 23 → MapReduce : Word Count Using Python](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Lab%20Experiments/Word_Count.py)
-
-### Datasets
-
-* [Sample Dataset making program](https://github.com/004Ajay/College-Lab-Works/blob/main/Datasets/dataset_1.R)
-
-* [Linear Regression Dataset making program](https://github.com/004Ajay/College-Lab-Works/blob/main/Datasets/height_weight_dataset.R)
+* [Experiment 23 → MapReduce : Word Count Using Python](https://github.com/004Ajay/College-Lab-Works/blob/main/R/Programs/Word_Count.py)
 
 </details>
 
@@ -232,75 +226,75 @@
 
 ## Operating System Programs
 
-* [Banker's Algorithm](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/bankersAlgorithm.c)
+* [Banker's Algorithm](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/bankersAlgorithm.c)
 
-* [Inter Process Communication using Shared Memory (IPC)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/ipc.c)
+* [Inter Process Communication using Shared Memory (IPC)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/ipc.c)
 
-* [Semaphores (Producer - Consumer Problem)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/semaphores.c)
+* [Semaphores (Producer - Consumer Problem)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/semaphores.c)
 
 
 #### CPU Scheduling Programs
 
-* [First Come First Served CPU Scheduling (FCFS)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/FCFS_Sch.c)
+* [First Come First Served CPU Scheduling (FCFS)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/FCFS_Sch.c)
 
-* [Priority Scheduling](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Priority_Sch.c)
+* [Priority Scheduling](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/Priority_Sch.c)
 
-* [Round Robin Scheduling](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/RoundRobin_Sch.c)
+* [Round Robin Scheduling](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/RoundRobin_Sch.c)
 
-* [Short Job First Scheduling (SJF)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/SJF_Sch.c)
+* [Short Job First Scheduling (SJF)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/SJF_Sch.c)
 
 
 #### Disk Scheduling Programs
 
-* [Circular SCAN (C-SCAN)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/cscan.c)
+* [Circular SCAN (C-SCAN)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/cscan.c)
 
-* [First Come First Served Disk Scheduling (FCFS)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/fcfs.c)
+* [First Come First Served Disk Scheduling (FCFS)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/fcfs.c)
 
-* [SCAN (Elevator Algorithm)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/scan.c)
+* [SCAN (Elevator Algorithm)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/scan.c)
 
-* [Shortest Seek Time First (SSTF)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/sstf.c)
+* [Shortest Seek Time First (SSTF)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/sstf.c)
 
 
 #### Memory Allocation Programs
 
-* [Best Fit](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/best.c)
+* [Best Fit](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/best.c)
 
-* [First Fit](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/first.c)
+* [First Fit](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/first.c)
 
-* [Worst Fit](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/worst.c)
+* [Worst Fit](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/worst.c)
 
 
 #### Page Replacement Programs
 
-* [First In First Out (FIFO)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/fifo.c)
+* [First In First Out (FIFO)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/fifo.c)
 
-* [Least Recently Used (LRU)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/lru.c)
+* [Least Recently Used (LRU)](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/lru.c)
 
 
 #### System Call Programs
 
-* [System Call 1: fork() exec() getpid() exit()](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/SysCallForkExec.c) 
+* [System Call 1: fork() exec() getpid() exit()](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/SysCallForkExec.c) 
 
-* [System Call 2: stat()](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/SysCallStat.c)
+* [System Call 2: stat()](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/SysCallStat.c)
 
-* [System Call 3: opendir() closedir()](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/SysCallDir.c)
+* [System Call 3: opendir() closedir()](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/SysCallDir.c)
 
+---
 
-#### Shell Programs 
+## Shell Programs 
+[First 10 Natural Numbers](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/10NatNums.sh) 
 
-* [First 10 Natural Numbers](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/10NatNums.sh) 
+[Basic Details](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/BasicDetails.sh) 
 
-* [Basic Details](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/BasicDetails.sh) 
+[Biggest Of Two Numbers](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/BiggestOfTwoNums.sh)
 
-* [Biggest Of Two Numbers](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/BiggestOfTwoNums.sh)
+[Calculator](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/calculator.sh) 
 
-* [Calculator](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/calculator.sh) 
+[Factorial](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/Factorial.sh) 
 
-* [Factorial](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Factorial.sh) 
+[Fibonacci](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/Fibonacci.sh) 
 
-* [Fibonacci](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Fibonacci.sh) 
-
-* [Sum Of Two Numbers](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/SumOfTwoNums.sh) 
+[Sum Of Two Numbers](https://github.com/004Ajay/College-Lab-Works/tree/main/OperatingSystem/Programs/SumOfTwoNums.sh) 
 
 </details>
 
@@ -311,105 +305,105 @@
 
 [Go to Java folder](https://github.com/004Ajay/College-Lab-Works/tree/main/Java)
 
-#### BASICS
+## BASICS
 
-* [Character Frequency](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/CharacterFreq.java)
+* [Character Frequency](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/CharacterFreq.java)
 
-* [Hello World](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/HelloWorld.java) 
+* [Hello World](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/HelloWorld.java) 
 
-* [Largest of Three Numbers](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/LargestOfThreeNums.java) 
+* [Largest of Three Numbers](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/LargestOfThreeNums.java) 
 
-* [Matrix Multiply](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/MatMultiply.java) 
+* [Matrix Multiply](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/MatMultiply.java) 
 
-* [Matrix Transpose](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/MatrixTranspose.java) 
+* [Matrix Transpose](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/MatrixTranspose.java) 
 
-* [Method Overloading](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/MethodOverloading.java)
+* [Method Overloading](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/MethodOverloading.java)
 
-* [Number Palindrome](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/NumPalindrome.java) 
+* [Number Palindrome](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/NumPalindrome.java) 
 
-* [Odd or Even Number](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/OddEven.java) 
+* [Odd or Even Number](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/OddEven.java) 
 
-* [Quick Sort on Numbers](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/QuickSortNumbers.java)
+* [Quick Sort on Numbers](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/QuickSortNumbers.java)
 
-* [Quick Sort on Strings](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/QuickSortStrings.java)
+* [Quick Sort on Strings](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/QuickSortStrings.java)
 
-* [Second smallest element in an Array](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Array2ndSmallest.java) 
+* [Second smallest element in an Array](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/Array2ndSmallest.java) 
 
-* [String Frequency](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/StringFreq.java)
+* [String Frequency](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/StringFreq.java)
 
-* [String Palindrome](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/StringPalindrome.java)
+* [String Palindrome](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/StringPalindrome.java)
 
-* [String Reversing](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/StringRev.java)
+* [String Reversing](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/StringRev.java)
 
-* [Sum of two numbers](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Sum.java)
+* [Sum of two numbers](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/Sum.java)
 
-* [Swapping with third variable](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/swappingWithThirdVar.java)
+* [Swapping with third variable](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/swappingWithThirdVar.java)
 
-* [Swapping without third variable](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/swappingWithoutThirdVar.java)
+* [Swapping without third variable](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/swappingWithoutThirdVar.java)
 
-* [Vowels or Consonants](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/VowelsOrConsonants.java)
+* [Vowels or Consonants](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/VowelsOrConsonants.java)
 
-#### FILE HANDLING
+## FILE HANDLING
 
-* [Line of Text](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/FileProgram2.java) 
+* [Line of Text](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/FileProgram2.java) 
 
-* [Read/Write integers(buffered reader/writer)](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/FileProgram4.java) 
+* [Read/Write integers(buffered reader/writer)](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/FileProgram4.java) 
 
-* [Read/Write n numbers](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/FileProgram1.java) 
+* [Read/Write n numbers](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/FileProgram1.java) 
 
-* [Read/Write text content(buffered reader/writer)](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/FileProgram3.java) 
-
-
-#### MULTI-THREADING
-
-* [Five consecutive integers](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/MultiThread2.java) 
-
-* [Multiplication Table](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/MultiThread1.java) 
-
-* [Suspend & Resume method](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/MultiThread3.java) 
+* [Read/Write text content(buffered reader/writer)](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/FileProgram3.java) 
 
 
-#### INHERITANCE
+## MULTI-THREADING
 
-* [Employees](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Employees.java) 
+* [Five consecutive integers](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/MultiThread2.java) 
 
-* [Engineer & Employee](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/EngineerEmployee.java) 
+* [Multiplication Table](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/MultiThread1.java) 
 
-
-#### EXCEPTION HANDLING
-
-* [Try Catch FINALLY](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/TryCatchFINALLY.java) 
-
-* [Try Catch THROW](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/TryCatchTHROW.java) 
+* [Suspend & Resume method](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/MultiThread3.java) 
 
 
-#### EVENT HANDLING
+## INHERITANCE
 
-* [Keyboard Events](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/KeyboardEvents.java) 
+* [Employees](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/Employees.java) 
 
-* [Mouse Events](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/MouseEvents.java) 
-
-
-#### JAVA SWING
-
-* [Calculator](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/calculator.java) 
-
-* [Traffic Light](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/TrafficLight.java) 
+* [Engineer & Employee](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/EngineerEmployee.java) 
 
 
-#### INTERFACE
+## EXCEPTION HANDLING
 
-* [Interface Inheritance](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/InterfaceInheritance.java) 
+* [Try Catch FINALLY](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/TryCatchFINALLY.java) 
 
-
-#### ABSTRACTION
-
-* [Abstract Shape's Sides](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/AbstractShapeSides.java) 
+* [Try Catch THROW](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/TryCatchTHROW.java) 
 
 
-###### LIST
+## EVENT HANDLING
 
-* [Doubly LinkedList](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/DoublyLinkedList.java) 
+* [Keyboard Events](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/KeyboardEvents.java) 
+
+* [Mouse Events](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/MouseEvents.java) 
+
+
+## JAVA SWING
+
+* [Calculator](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/calculator.java) 
+
+* [Traffic Light](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/TrafficLight.java) 
+
+
+## INTERFACE
+
+* [Interface Inheritance](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/InterfaceInheritance.java) 
+
+
+## ABSTRACTION
+
+* [Abstract Shape's Sides](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/AbstractShapeSides.java) 
+
+
+## LIST
+
+* [Doubly LinkedList](https://github.com/004Ajay/College-Lab-Works/tree/main/Java/Programs/DoublyLinkedList.java)
 
 
 </details>
@@ -421,56 +415,56 @@
 
 [Go to Data-Structures folder](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures)
 
-#### ARRAYS
+## ARRAYS
 
-* [Binary Search Using Function](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/BinarySearchUsingFunction.c) 
+* [Binary Search Using Function](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/BinarySearchUsingFunction.c) 
 
-* [Binary Search With Complexities](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/BinarySearchWithComplexities.c) 
+* [Binary Search With Complexities](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/BinarySearchWithComplexities.c) 
 
-* [Bubble Sort](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/BubbleSort.c) 
+* [Bubble Sort](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/BubbleSort.c) 
 
-* [Heap Sort](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/HeapSort.c) 
+* [Heap Sort](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/HeapSort.c) 
 
-* [Infix to Postfix](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/InfixToPostfix.c) 
+* [Infix to Postfix](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/InfixToPostfix.c) 
 
-* [Insertion Sort](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/InsertionSort.c) 
+* [Insertion Sort](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/InsertionSort.c) 
 
-* [Linear Search Using Function](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/LinearSearchUsingFunction.c) 
+* [Linear Search Using Function](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/LinearSearchUsingFunction.c) 
 
-* [Linear Search With Complexities](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/LinearSearchWithComplexities.c) 
+* [Linear Search With Complexities](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/LinearSearchWithComplexities.c) 
 
-* [Merge Sort](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/MergeSort.c) 
+* [Merge Sort](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/MergeSort.c) 
 
-* [Poly Representation Using Structure & Array](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/PolyRepUsingStructArray.c) 
+* [Poly Representation Using Structure & Array](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/PolyRepUsingStructArray.c) 
 
-* [Quick Sort](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/QuickSort.c) 
+* [Quick Sort](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/QuickSort.c) 
 
-* [Selection Sort](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/SelectionSort.c) 
-
-
-#### STACKS
-
-* [Evaluation of Postfix Expression](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/EvaluationOfPostfixExpression.c) 
-
-* [Reversing number using Stack](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/RevNumUsingStack.c) 
-
-* [Reversing string using Stack](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/RevStringUsingStack.c) 
-
-* [Stack](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Stack.c) 
+* [Selection Sort](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/SelectionSort.c) 
 
 
-#### QUEUE
+## STACKS
 
-* [Circular Queue](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/CircularQueue.c) 
+* [Evaluation of Postfix Expression](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/EvaluationOfPostfixExpression.c) 
 
-* [Queue](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Queue.c) 
+* [Reversing number using Stack](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/RevNumUsingStack.c) 
+
+* [Reversing string using Stack](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/RevStringUsingStack.c) 
+
+[Stack](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/Stack.c) 
 
 
-#### LINKEDLIST
+## QUEUE
 
-* [LinkedList](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/LinkedList.c) 
+* [Circular Queue](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/CircularQueue.c) 
 
-* [Polynomial Addition using LinkedList](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/PolyAddUsingLinkedList.c) 
+* [Queue](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/Queue.c) 
+
+
+## LINKEDLIST
+
+* [LinkedList](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/LinkedList.c) 
+
+* [Polynomial Addition using LinkedList](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/PolyAddUsingLinkedList.c) 
 
 </details>
 

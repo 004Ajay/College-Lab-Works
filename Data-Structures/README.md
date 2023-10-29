@@ -19,59 +19,59 @@ Types of DS are Arrays, Stacks, Queue, LinkedList, Trees, Heaps, Hash Tables & G
 
 ## ARRAYS
 
-* [Binary Search Using Function](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/BinarySearchUsingFunction.c) 
+* [Binary Search Using Function](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/BinarySearchUsingFunction.c) 
 
-* [Binary Search With Complexities](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/BinarySearchWithComplexities.c) 
+* [Binary Search With Complexities](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/BinarySearchWithComplexities.c) 
 
-* [Bubble Sort](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/BubbleSort.c) 
+* [Bubble Sort](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/BubbleSort.c) 
 
-* [Heap Sort](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/HeapSort.c) 
+* [Heap Sort](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/HeapSort.c) 
 
-* [Infix to Postfix](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/InfixToPostfix.c) 
+* [Infix to Postfix](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/InfixToPostfix.c) 
 
-* [Insertion Sort](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/InsertionSort.c) 
+* [Insertion Sort](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/InsertionSort.c) 
 
-* [Linear Search Using Function](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/LinearSearchUsingFunction.c) 
+* [Linear Search Using Function](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/LinearSearchUsingFunction.c) 
 
-* [Linear Search With Complexities](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/LinearSearchWithComplexities.c) 
+* [Linear Search With Complexities](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/LinearSearchWithComplexities.c) 
 
-* [Merge Sort](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/MergeSort.c) 
+* [Merge Sort](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/MergeSort.c) 
 
-* [Poly Representation Using Structure & Array](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/PolyRepUsingStructArray.c) 
+* [Poly Representation Using Structure & Array](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/PolyRepUsingStructArray.c) 
 
-* [Quick Sort](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/QuickSort.c) 
+* [Quick Sort](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/QuickSort.c) 
 
-* [Selection Sort](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/SelectionSort.c) 
+* [Selection Sort](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/SelectionSort.c) 
 
 
 ## STACKS
 
-* [Evaluation of Postfix Expression](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/EvaluationOfPostfixExpression.c) 
+* [Evaluation of Postfix Expression](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/EvaluationOfPostfixExpression.c) 
 
-* [Reversing number using Stack](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/RevNumUsingStack.c) 
+* [Reversing number using Stack](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/RevNumUsingStack.c) 
 
-* [Reversing string using Stack](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/RevStringUsingStack.c) 
+* [Reversing string using Stack](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/RevStringUsingStack.c) 
 
-[Stack](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Stack.c) 
+[Stack](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/Stack.c) 
 
 
 ## QUEUE
 
-* [Circular Queue](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/CircularQueue.c) 
+* [Circular Queue](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/CircularQueue.c) 
 
-* [Queue](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Queue.c) 
+* [Queue](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/Queue.c) 
 
 
 ## LINKEDLIST
 
-* [LinkedList](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/LinkedList.c) 
+* [LinkedList](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/LinkedList.c) 
 
-* [Polynomial Addition using LinkedList](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/PolyAddUsingLinkedList.c) 
+* [Polynomial Addition using LinkedList](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/PolyAddUsingLinkedList.c) 
 
 ---
 
 ## MISCELLANEOUS
 
-[Sparse Matrix](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/SparseMatrix.c) 
+[Sparse Matrix](https://github.com/004Ajay/College-Lab-Works/tree/main/Data-Structures/Programs/SparseMatrix.c) 
 
 ---
