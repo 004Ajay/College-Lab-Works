@@ -1,1 +1,0 @@
-## The above programs are a collection of study materials from 'NPTEL' online course named 'Joy of Computing using Python'
