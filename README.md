@@ -7,6 +7,8 @@
 <details> 
   <summary><b> FOLDERS </b></summary>
 
+* [DEEP LEARNING LAB](https://github.com/004Ajay/College-Lab-Works/tree/main/Deep%20Learning)
+
 * [R PROGRAMMING LAB](https://github.com/004Ajay/College-Lab-Works/tree/main/R)
 
 * [AI & DS LAB](https://github.com/004Ajay/College-Lab-Works/tree/main/AI-DS)
@@ -27,6 +29,16 @@
 
 <br>
 
+<!-- --------------------------------------------------------- -->
+<details> 
+  <summary><b> DEEP LEARNING LAB </b></summary>
+
+[Go to Deep Learning folder](https://github.com/004Ajay/College-Lab-Works/tree/main/Deep%20Learning)
+
+
+
+
+</details>
 <!-- --------------------------------------------------------- -->
 
 <details> 
