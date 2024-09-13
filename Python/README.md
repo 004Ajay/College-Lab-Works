@@ -69,6 +69,10 @@ Python is a high-level, interpreted, general-purpose programming language. with 
 
 * [Single Coin Toss](https://github.com/004Ajay/College-Lab-Works/tree/main/Python/Programs/coinToss.py)
 
+* [Python Split Function Backend Code](https://github.com/004Ajay/College-Lab-Works/tree/main/Python/Programs/PySplitFnBackendCode.py)
+
+* [Minimum Computer Networks (IBM Question)](https://github.com/004Ajay/College-Lab-Works/tree/main/Python/Programs/MinCompNetworks_IBM_Qn.py)
+
 
 # Python Tips
 
